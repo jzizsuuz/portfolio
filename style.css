@@ -180,6 +180,7 @@ p {
 /* Section common */
 .section {
   padding: 50px;
+  padding-top: 100px;
   text-align: center;
   margin: auto;
 }
@@ -414,7 +415,7 @@ p {
 
 /* Contact */
 #contact {
-  background-color: var(--color-pink);
+  background-color: var(--color-dark-pink);
 }
 
 .contact__title,
