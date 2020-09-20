@@ -7,4 +7,3 @@
 - HTML
 - CSS
 - JavaScript
-https://www.notion.so/Readme-md-6ab1cf5690974656973a66ac9df5d564#fbe4cb9f8fd64845afe6487891c2efe0
