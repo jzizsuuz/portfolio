@@ -1,5 +1,8 @@
 # Portfolio
 
+### 진행 사항
+- 프로젝트 추가중~
+
 - 사이트 링크
   [Jisu's Portfolio](https://jzizsuuz.github.io/portfolio/)
 
