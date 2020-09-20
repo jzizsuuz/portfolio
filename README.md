@@ -7,4 +7,4 @@
 - HTML
 - CSS
 - JavaScript
-![lang](https://js.devexpress.com/Content/Images/features/html5-css-javascript-logos.png =100x)
+![lang](https://js.devexpress.com/Content/Images/features/html5-css-javascript-logos.png){: width="50%" }
